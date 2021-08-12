@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoYo-Python
-- 👀 I’m interested in ReactJS and React Native
-- 🌱 I’m currently learning CSS, and JS
-- 💞️ I’m looking to collaborate on a Billionaire Project
+- 👀 I’m interested in React and Flutter
+- 🌱 I’m currently learning C# and Unity to make a commerial game in the future.
+- 💞️ I’m looking to make on a Billionaire Project
 - 📫 How to reach me my email is developer.youssef@yahoo.com
 
 <!---
