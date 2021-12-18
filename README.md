@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoYo-Python
 - 👀 I’m interested in React and Flutter
-- 🌱 I’m currently learning C# and Unity to make a commerial game in the future.
+- 🌱 I’m currently learning Web Development to make a unicorn company in the future.
 - 💞️ I’m looking to make on a Billionaire Project
 - 📫 How to reach me my email is youssefwaleedibrahim@yahoo.com or at yoyo.kotlin@gmail.com
 
